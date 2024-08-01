@@ -1,6 +1,6 @@
 # Brayan Toledo
 
-![Logo](https://instagram.fmzt3-1.fna.fbcdn.net/v/t51.2885-19/278506435_342073617902111_4365587324655745843_n.jpg)
+![Logo](https://instagram.fmzt3-1.fna.fbcdn.net/v/t51.2885-19/278506435_342073617902111_4365587324655745843_n.jpg?_nc_ht=instagram.fmzt3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=AEHLhW0lFWEQ7kNvgGlUkgr&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYCpA7Yi40FY5nilt1XL9Bc2k21W8YSSIwvzyOPjQUr1TA&oe=66B19DA8&_nc_sid=8f1549)
 
 PhotoGallery es una aplicación web para compartir fotos con amigos y familiares. Puedes crear álbumes, subir imágenes y dejar comentarios en las fotos. La aplicación cuenta con un diseño intuitivo y es fácil de usar.
 
