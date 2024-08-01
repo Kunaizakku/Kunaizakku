@@ -22,22 +22,8 @@ En mi gitbub podras encontrar diferentes proeyctos que eh hecho en el transcuros
 
 ## Tecnologías utilizadas
 
-- **Frontend**: React, Redux, Bootstrap
-- **Backend**: Node.js, Express
-- **Base de datos**: MongoDB
+- **Frontend**: CSS, Bootstrap
+- **Backend**: JavaScript, Laravel, PHP, 
+- **Base de datos**: MongoDB, MYSQL
 
-## Instalación
-
-1. Clona este repositorio: `git clone https://github.com/tu_usuario/PhotoGallery.git`
-2. Navega al directorio del proyecto: `cd PhotoGallery`
-3. Instala las dependencias: `npm install`
-4. Inicia el servidor: `npm start`
-
-## Contribuir
-
-Las contribuciones son bienvenidas. Por favor, revisa las [directrices de contribución](https://github.com/tu_usuario/PhotoGallery/CONTRIBUTING.md) para más detalles.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/tu_usuario/PhotoGallery/blob/main/LICENSE) para más información.
 
