@@ -11,7 +11,7 @@ En mi gitbub podras encontrar diferentes proeyctos que eh hecho en el transcuros
 
 ## Capturas de pantalla
 
-![Página de inici](https://example.com/homepage.png)
+//![Página de inici](https://example.com/homepage.png)
 *Página de memes*
 
 ![Álbumes](https://example.com/albums.png)
