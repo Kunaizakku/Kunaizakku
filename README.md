@@ -45,7 +45,7 @@
 
 ## 🌐 Conéctate conmigo
 
-- [Twitter](https://twitter.com/kunaizakku)
+- [Twitter](https://twitter.com/kun_aizakku)
 - [LinkedIn](https://linkedin.com/in/tuusuario)
 - [Correo electrónico](mailto:brayt01@hotmail.com)
 
