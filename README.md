@@ -8,7 +8,7 @@
 
 ## 🌸 Acerca de mí
 
-- 🚀 Actualmente estoy aprendiendo **Django** y **Flutter**
+- 🚀 Actualmente estoy aprendiendo **Django**
 - 🎮 Me encanta el anime y la cultura pop japonesa
 - 📚 Me interesa la **inteligencia artificial**, **desarrollo web**, y **la creación de videojuegos**
 
@@ -17,7 +17,7 @@
 ## 🔧 Herramientas que uso
 
 - **Lenguajes de programación**: Python, JavaScript, HTML/CSS, PHP
-- **Frameworks**: Django, Laravel, React Native
+- **Frameworks**: Laravel, React Native, Flutter
 - **Bases de datos**: MySQL, MongoDB
 
 ---
