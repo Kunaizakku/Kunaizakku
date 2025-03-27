@@ -53,8 +53,8 @@
 
 ### 📝 Algunas frases favoritas del anime
 
-> "La verdadera fuerza no recide en el poder de uno, sino en la forma de ser de uno." — Shadow
-> "Debes de disfrutar de los pequeños desvíos. disfrútalos mucho por que de ese modo encontraras aquello que es mas importante de lo que querías." — ging Freecs
-> "Olvidar es como una herida. La herida puede sanar pero deja cicatriz." — Monkey D Luffy
+> "La verdadera fuerza no recide en el poder de uno, sino en la forma de ser de uno." — Shadow  
+> "Debes de disfrutar de los pequeños desvíos. disfrútalos mucho por que de ese modo encontraras aquello que es mas importante de lo que querías." — ging Freecs  
+> "Olvidar es como una herida. La herida puede sanar pero deja cicatriz." — Monkey D Luffy  
 
 ✨ ¡Gracias por visitar mi perfil! ✨
