@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado del **anime** y un desarrollador de software que disfruta creando proyectos interesantes y colaborando con la comunidad.
 
-![Anime Banner]([https://example.com/your-anime-banner.jpg](https://img.freepik.com/foto-gratis/bestia-dragon-mitica-estilo-anime_23-2151112836.jpg?t=st=1743096084~exp=1743099684~hmac=5423b721dd7dbc306de0eba7194cbfe36e99f06e533bf9c0a3958fe8290b07bb&w=1380))
+![Anime Banner](https://github.com/Kunaizakku/Kunaizakku/blob/main/img/banner.jpg?raw=true)
 
 ---
 
