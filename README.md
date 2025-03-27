@@ -8,7 +8,7 @@
 
 ## 🌸 Acerca de mí
 
-- 🚀 Actualmente estoy aprendiendo **Django Flutter **
+- 🚀 Actualmente estoy aprendiendo **Django** y **Flutter**
 - 🎮 Me encanta el anime y la cultura pop japonesa
 - 📚 Me interesa la **inteligencia artificial**, **desarrollo web**, y **la creación de videojuegos**
 
@@ -17,8 +17,8 @@
 ## 🔧 Herramientas que uso
 
 - **Lenguajes de programación**: Python, JavaScript, HTML/CSS, PHP
-- **Frameworks**: Django, Laravel
-- **Bases de datos**: MySQL, MongoDB, Microsoft Sql server managment
+- **Frameworks**: Django, Laravel, React Native
+- **Bases de datos**: MySQL, MongoDB
 
 ---
 
@@ -31,7 +31,15 @@
 
 ### 2. **ManagaRealm**
    - Pagina web para la lectura de manga en linea para aquellos aficionados al manga, es un lugar donde se centraliza los mangas mas actuales.
-   - [Enlace al repositorio](https://github.com/miusuario/proyecto)
+   - [Enlace al repositorio](https://github.com/kunaizakku/mangarealm)
+
+### 3. **Creador de memes**
+   - Pagina web para crear memes a partir de imagenes propias o de un catalago de imagenes dentro de la pagina, cuenta con editor mediante canvas.
+   - [Enlace al repositorio](https://github.com/kunaizakku/Creador-de-memes)
+
+### 4. **Diversiones Hian**
+   - Sistema para negocio de renta de mueble para fiestas, donde se maneja fechas de entrega y apartados.
+   - [Enlace al repositorio](https://github.com/kunaizakku/diversiones-hian)
 
 ---
 
