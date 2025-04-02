@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado del **anime** y un desarrollador de software que disfruta creando proyectos interesantes y colaborando con la comunidad.
 
-![Anime Banner](https://raw.githubusercontent.com/EduardoPillado/EduardoPillado/refs/heads/main/God_of_Programming.png)
+![Anime Banner](https://github.com/Kunaizakku/Kunaizakku/blob/main/img/banner.jpg?raw=true)
 
 ---
 
