@@ -55,7 +55,7 @@
 ## 🌐 Conéctate conmigo
 
 - [Twitter](https://twitter.com/kun_aizakku)
-- [LinkedIn](https://linkedin.com/in/tuusuario)
+- [LinkedIn](https://linkedin.com/in/brayan-isaac-toledo-gómez-7bba84358/)
 - [Correo electrónico](mailto:brayt01@hotmail.com)
 
 ---
