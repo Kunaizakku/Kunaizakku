@@ -37,7 +37,6 @@
 ### 1. **Asehn knight**
    - Este es un proyecto que se hizo con la finalidad de practicar es un proyecto un tanto antiguo no tan detallado que en si trata de una pagina para la compra de videojuegos en linea, algo parecido a Steam o Epic Games.
    - [Enlace al repositorio](https://github.com/miusuario/proyecto)
-   - ![Imagen del proyecto](https://example.com/proyecto-imagen.jpg)
 
 ### 2. **ManagaRealm**
    - Pagina web para la lectura de manga en linea para aquellos aficionados al manga, es un lugar donde se centraliza los mangas mas actuales.
