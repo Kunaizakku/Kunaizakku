@@ -50,6 +50,10 @@
    - Sistema para negocio de renta de mueble para fiestas, donde se maneja fechas de entrega y apartados.
    - [Enlace al repositorio](https://github.com/kunaizakku/diversiones-hian)
 
+### 4. **Portafolio estructura de datos**
+   - Este proyecto es un portafolio web interactivo que presenta una colección de ejercicios prácticos desarrollados en JavaScript. Está diseñado para demostrar el dominio de conceptos fundamentales de programación y estructura de datos, aplicados a través de ejemplos funcionales.
+   - [Enlace al repositorio](https://github.com/kunaizakku/portafolio-estructura-datos)
+
 ---
 
 ## 🌐 Conéctate conmigo
